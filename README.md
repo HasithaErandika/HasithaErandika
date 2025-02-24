@@ -13,8 +13,8 @@ I’m Hasitha Erandika, a Computer Engineering undergrad at the University of Pe
 - **Other**: [Problem-solving, teamwork—soft skills from your education]  
 
 ## 🚀 Some Projects I’m Proud Of  
-- **[Project Name](https://github.com/hasitha-erandika/project-repo)**: [A placeholder—e.g., A student management system built with Python.]  
-- **[Project Name](https://github.com/hasitha-erandika/project-repo)**: [Maybe something from your blog or studies—e.g., A simple game or utility tool.]  
+- **[Project Name](https://github.com/HasithaErandika/project-repo)**: [A placeholder—e.g., A student management system built with Python.]  
+- **[Project Name](https://github.com/HasithaErandika/project-repo)**: [Maybe something from your blog or studies—e.g., A simple game or utility tool.]  
 *(Let me know your real projects for точный links!)*  
 
 ## 🎉 A Bit About Me  
@@ -29,4 +29,4 @@ I’m Hasitha Erandika, a Computer Engineering undergrad at the University of Pe
 Feel free to reach out—I’d love to collaborate or just geek out over code!  
 
 ## 📊 GitHub Stats  
-![Hasitha’s Stats](https://github-readme-stats.vercel.app/api?username=hasitha-erandika&show_icons=true&theme=radical)  
+![Hasitha’s Stats](https://github-readme-stats.vercel.app/api?username=HasithaErandika&show_icons=true&theme=radical)  
