@@ -68,10 +68,10 @@ I’m a budding software engineer with a love for crafting robust applications, 
 
 ---
 
-### 📊 My GitHub Vibes  
+## 📊 My GitHub Vibes   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasithaErandika&show_icons=true&theme=dracula&hide_border=true" alt="Hasitha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaErandika&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasithaErandika&show_icons=true&theme=tokyonight&hide_border=true" alt="Hasitha's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaErandika&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
 ---
