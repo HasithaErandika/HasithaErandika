@@ -81,9 +81,10 @@ I'm a budding software engineer with a love for crafting robust applications, so
 ### 🔥 Streak Stats  
 <img src="https://streak-stats.demolab.com?user=HasithaErandika&theme=radical&hide_border=true" height="150" alt="streak graph" />
 
+<!--
 ### 📊 Repository Statistics  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasithaErandika&repo=A2Z-DBMS&theme=radical&hide_border=true" alt="A2Z-DBMS" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HasithaErandika&repo=HasithaErandika&theme=radical&hide_border=true" alt="Profile" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HasithaErandika&repo=HasithaErandika&theme=radical&hide_border=true" alt="Profile" /> -->
 
 ### 🎯 Activity Overview  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasithaErandika&theme=radical" alt="Activity Overview" />
