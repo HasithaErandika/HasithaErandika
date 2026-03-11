@@ -42,7 +42,7 @@ My core interest lies in **building intelligent systems that interact safely and
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
+  <img src="https://img.shields.io/badge/Ballerina-20B2AA?style=for-the-badge&logo=ballerina&logoColor=white"/>
 </p>
 
 ### Frameworks & Tools
@@ -53,12 +53,12 @@ My core interest lies in **building intelligent systems that interact safely and
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
 </p>
 
 ### Data & DevOps
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
@@ -67,7 +67,7 @@ My core interest lies in **building intelligent systems that interact safely and
 
 ## 🚀 Long-Term Vision
 
-I aim to pursue postgraduate study (MSc) in **AI, Autonomous Systems, or Aerospace Informatics**, with the goal of contributing to **next-generation intelligent decision-support systems** that enhance human situational awareness and safety.
+I aim to pursue postgraduate study (MSc) in **AI, Autonomous Systems, or Aerospace Informatics**, **Brain–AI Research**, with the goal of contributing to **next-generation intelligent decision-support systems** that enhance human situational awareness, safety and cognitive augmentation
 
 ---
 
