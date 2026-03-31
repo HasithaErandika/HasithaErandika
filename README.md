@@ -6,30 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I am an **undergraduate researcher and software engineering student** pursuing a **BSc (Hons) in Information Technology (Artificial Intelligence)** at the <a href="https://www.sliit.lk/">**Sri Lanka Institute of Information Technology (SLIIT)**.
+I am an **undergraduate researcher and software engineering student** @ <a href="https://www.sliit.lk/">**Sri Lanka Institute of Information Technology (SLIIT)**.
 
-My core interest lies in **building intelligent systems that interact safely and transparently with humans**, especially in **safety-critical domains** such as **aviation and autonomous systems**.
-
-> I don’t just train models — I design **systems**.
-
----
-
-## 🧭 Research & Technical Interests
-
-- ✈️ **AI for Aviation & Autonomous Systems**
-  - Flight-state awareness
-  - Anomaly detection in telemetry
-  - Human–AI collaboration in cockpit environments  
-
-- 🧠 **Cognitive & Human-Centered AI**
-  - EEG-based cognitive load analysis
-  - Alert timing & decision support
-  - Explainable AI (XAI)
-
-- 🧩 **Software & Systems Engineering**
-  - Simulation-based experimentation
-  - Data-driven system modeling
-  - Robust, reproducible pipelines
+> I don’t just train models, I design **systems**.
 
 ---
 
@@ -65,21 +44,6 @@ My core interest lies in **building intelligent systems that interact safely and
 
 ---
 
-## 🚀 Long-Term Vision
-
-I aim to pursue postgraduate study (MSc) in **AI, Autonomous Systems, or Aerospace Informatics**, **Brain–AI Research**, with the goal of contributing to **next-generation intelligent decision-support systems** that enhance human situational awareness, safety and cognitive augmentation
-
----
-
-## 🤝 Open To
-
-- Research collaborations  
-- AI / software engineering internships  
-- Simulation-based ML projects  
-- Open-source contributions in AI & systems  
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
@@ -106,6 +70,6 @@ I aim to pursue postgraduate study (MSc) in **AI, Autonomous Systems, or Aerospa
 ---
 
 <div align="center">
-  <p><i>“Engineering intelligent systems is not about replacing humans — it’s about supporting better decisions.”</i></p>
+  <p><i>“Engineering intelligent systems is not about replacing humans, it’s about supporting better decisions.”</i></p>
   <img src="https://komarev.com/ghpvc/?username=HasithaErandika&style=flat-square&color=blueviolet"/>
 </div>
