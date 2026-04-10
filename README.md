@@ -14,7 +14,7 @@
 
 <br/>
 
-**Undergraduate Researcher · Hackathon Competitor (Team Octopipers) · Tech Solutions Builder**
+**Undergraduate Researcher · Tech Solutions Builder**
 
 <br/>
 
@@ -77,17 +77,20 @@ focus      : [ "Cognitive AI", "Autonomous Systems", "Human-AI Interaction", "So
 
 ## 🚀 My GitHub Vibes  
 
-<div align="center">
+
 
 ### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=HasithaErandika&theme=radical&hide_border=true" height="150" alt="streak graph" />
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=HasithaErandika&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" />
+</div>
 
 ### 🎯 Activity Overview  
+
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasithaErandika&theme=radical" alt="Activity Overview" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasithaErandika&theme=radical" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasithaErandika&theme=radical" alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasithaErandika&theme=radical" alt="Stats" />
-
 </div>
 
 ---
