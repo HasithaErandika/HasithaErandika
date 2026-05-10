@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=200&section=header&text=Hasitha%20Erandika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20SLIIT%20Undergrad&descAlignY=55&descSize=16&descColor=00d4ff"/>
@@ -28,13 +28,13 @@
 
 <br/>
 
----
+--- -->
 
 ## `$ whoami`
 
-2nd-year undergraduate at **SLIIT** specialising in Artificial Intelligence, focused on autonomous systems, computer vision, and embedded AI. Currently a **Research Assistant at BrAINLabs Inc.** contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
+<!--2nd-year undergraduate at **SLIIT** specialising in Artificial Intelligence, focused on autonomous systems, computer vision, and embedded AI. Currently a **Research Assistant at BrAINLabs Inc.** contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
 
-My long-term goal is to work on aerospace avionics and embedded AI systems — the intelligent perception and decision-making that powers modern aircraft. I'm building that foundation through deep learning, robotics (ROS 2), and computer vision.
+My long-term goal is to work on aerospace avionics and embedded AI systems — the intelligent perception and decision-making that powers modern aircraft. I'm building that foundation through deep learning, robotics (ROS 2), and computer vision. -->
 
 ```yaml
 location   : Colombo, Sri Lanka 🇱🇰
@@ -44,7 +44,7 @@ gpa        : 3.75 / 4.00
 research   : EEG + mindfulness cognition · BrAINLabs Inc. × University of Colombo
 target     : AI / Robotics Internship → MSc (Germany) → Aerospace Embedded AI
 ```
-
+<!--
 ---
 
 ## 🔭 What I'm Building Now
