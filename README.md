@@ -52,7 +52,7 @@ target     : AI / Robotics Internship → MSc (Germany) → Aerospace Embedded A
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[ros2-ai-navigator](https://github.com/HasithaErandika/ros2-ai-navigator)** | Real-time PyTorch MLP classifier inside ROS 2 for autonomous obstacle avoidance | `ROS 2 Jazzy` `PyTorch` `CUDA` `Ubuntu 24.04` |
-| **[MindFlow](https://github.com/HasithaErandika/mindfulness-research-app)** | Cross-platform mobile app for longitudinal mindfulness research | `React Native` `TypeScript` `Supabase` |
+| **[MindFlow](https://github.com/HasithaErandika/mindflow-platform)** | Cross-platform mobile app for longitudinal mindfulness research | `React Native` `TypeScript` `Supabase` |
 | **Deep Learning Specialization** | Andrew Ng / DeepLearning.AI — all 5 courses in progress | `PyTorch` `TensorFlow` `CNNs` `RNNs` |
 
 ---
