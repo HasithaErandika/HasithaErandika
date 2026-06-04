@@ -1,61 +1,59 @@
 <div align="center">
 
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=200&section=header&text=Hasitha%20Erandika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20SLIIT%20Undergrad&descAlignY=55&descSize=16&descColor=00d4ff"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8f0,100:c8c8e8&height=200&section=header&text=Hasitha%20Erandika&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20SLIIT%20Undergrad&descAlignY=55&descSize=16&descColor=00599C"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=200&section=header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=180&section=header&text=Hasitha%20Erandika&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Undergraduate&descAlignY=58&descSize=16&descColor=00d4ff"/>
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8f0,100:c8c8e8&height=180&section=header&text=Hasitha%20Erandika&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Undergraduate&descAlignY=58&descSize=16&descColor=00599C"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header"/>
 </picture>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hasitha+Erandika+;BSc+(Hons)+IT+Specializing+in+AI+@+SLIIT;Research+Assistant+@+BrAINLab;Building+Cognitive+AI+%26+Autonomous+Systems;Bridging+Web+Engineering+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=BSc+(Hons)+IT+Specializing+in+Artificial+Intelligence;Research+Assistant+%7C+Software+Engineer;Building+Practical+AI+Solutions" alt="Typing SVG" />
 </a>
+</p>
 
-<br/>
-
-**Undergraduate Researcher · Tech Solutions Builder**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-erandika/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wickramasinghe.erandika) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wickramasinghe.erandika@gmail.com)
-
-<br />
-
-![](https://img.shields.io/badge/🟢%20Status-Open%20to%20Collaborations%20%26%20Research-%2300C853?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-erandika/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wickramasinghe.erandika)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wickramasinghe.erandika@gmail.com)
 
 </div>
 
-<br/>
+---
 
---- 
+## whoami
 
-## `$ whoami`
+2nd-year undergraduate at **SLIIT** specialising in Artificial Intelligence. Research Assistant at **BrAINLabs Inc.**, contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
 
-2nd-year undergraduate at **SLIIT** specialising in Artificial Intelligence, focused on autonomous systems, computer vision, and embedded AI. Currently a **Research Assistant at BrAINLabs Inc.** contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
-
-My long-term goal is to work on aerospace avionics and embedded AI systems — the intelligent perception and decision-making that powers modern aircraft. I'm building that foundation through deep learning, robotics (ROS 2), and computer vision. 
+I build AI-powered applications and open-source tools. I work efficiently using agentic AI platforms - Cursor, ClaudeCLI, and Antigravity - which means I ship faster and focus my energy on architecture, problem framing, and ML fundamentals rather than boilerplate.
 
 ```yaml
 location   : Colombo, Sri Lanka 🇱🇰
 degree     : BSc (Hons) Information Technology — AI Specialization
-institution: Sri Lanka Institute of Information Technology (SLIIT)
-gpa        : 3.75 / 4.00
-research   : EEG + mindfulness cognition · BrAINLabs Inc. × University of Colombo
-target     : AI / Robotics Internship → MSc (Germany) → Aerospace Embedded AI
+institution: SLIIT
+gpa        : 3.75 / 4.00  |  Dean's List — Y1S2, Y2S1
+research   : EEG + mindfulness cognition · BrAINLabs × University of Colombo
+goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 ```
 
 ---
 
-## 🔭 What I'm Building Now
+## Selected Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---------|-------------|-------|
-| **[ros2-ai-navigator](https://github.com/HasithaErandika/ros2-ai-navigator)** | Real-time PyTorch MLP classifier inside ROS 2 for autonomous obstacle avoidance | `ROS 2 Jazzy` `PyTorch` `CUDA` `Ubuntu 24.04` |
-| **[MindFlow](https://github.com/HasithaErandika/mindflow-platform)** | Cross-platform mobile app for longitudinal mindfulness research | `React Native` `TypeScript` `Supabase` |
-| **Deep Learning Specialization** | Andrew Ng / DeepLearning.AI — all 5 courses in progress | `PyTorch` `TensorFlow` `CNNs` `RNNs` |
+| **[EquiHire-Core](https://github.com/HasithaErandika/EquiHire-Core)** | AI bias firewall for technical recruitment — automated CV parsing, PII redaction, LLM evaluation with Zero-Shot Relevance Gate | `Ballerina` `React` `Gemini API` `Supabase` |
+| **[HealthIntel](https://github.com/HasithaErandika/HealthIntel)** | Diabetes risk screening on BRFSS dataset — 84% ROC-AUC, SHAP explainability, Streamlit dashboard | `Python` `XGBoost` `CatBoost` `SHAP` |
+| **[module-ballerinax-huggingface](https://github.com/HasithaErandika/module-ballerinax-huggingface)** | Published Ballerina connector for HuggingFace Inference API — 17+ AI tasks, RAG pipeline, streaming, 189+ pulls | `Ballerina` `HuggingFace API` |
 
 ---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=HasithaErandika&style=flat-square&color=blueviolet"/>
+</div>
 
 ## 🛠️ Technical Stack
 
@@ -68,6 +66,7 @@ target     : AI / Robotics Internship → MSc (Germany) → Aerospace Embedded A
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+<!--
 **Robotics & Embedded Systems**
 
 ![ROS 2](https://img.shields.io/badge/ROS%202%20Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -75,6 +74,7 @@ target     : AI / Robotics Internship → MSc (Germany) → Aerospace Embedded A
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo%20Harmonic-orange?style=flat-square)
 
+-->
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
