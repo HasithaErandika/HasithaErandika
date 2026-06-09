@@ -1,18 +1,15 @@
 <div align="center">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Cover Image"/> -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Cover Image"/>
+
+
+
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=180&section=header&text=Hasitha%20Erandika&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Undergraduate&descAlignY=58&descSize=16&descColor=00d4ff"/>
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8f0,100:c8c8e8&height=180&section=header&text=Hasitha%20Erandika&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Undergraduate&descAlignY=58&descSize=16&descColor=00599C"/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header"/>
-</picture>
+
 
 <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=BSc+(Hons)+IT+Specializing+in+Artificial+Intelligence;Research+Assistant+%7C+Software+Engineer;Building+Practical+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Hasitha+Erandika;Research+Assistant+%7C+Learning+AI+Engineering" alt="Typing SVG" />
 </a>
 </p>
 
@@ -32,22 +29,12 @@ I build AI-powered applications and open-source tools. I work efficiently using 
 
 ```yaml
 location   : Colombo, Sri Lanka 🇱🇰
-degree     : BSc (Hons) Information Technology — AI Specialization
+degree     : BSc (Hons) Information Technology - AI Specialization
 institution: SLIIT
-gpa        : 3.75 / 4.00  |  Dean's List — Y1S2, Y2S1
-research   : EEG + mindfulness cognition · BrAINLabs × University of Colombo
+gpa        : 3.67 / 4.00  |  Dean's List - Y1S2, Y2S1
+research   : EEG + mindfulness cognition · BrAINLabs (SLIIT) × University of Colombo
 goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 ```
-
----
-
-## Selected Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| **[EquiHire-Core](https://github.com/HasithaErandika/EquiHire-Core)** | AI bias firewall for technical recruitment — automated CV parsing, PII redaction, LLM evaluation with Zero-Shot Relevance Gate | `Ballerina` `React` `Gemini API` `Supabase` |
-| **[HealthIntel](https://github.com/HasithaErandika/HealthIntel)** | Diabetes risk screening on BRFSS dataset — 84% ROC-AUC, SHAP explainability, Streamlit dashboard | `Python` `XGBoost` `CatBoost` `SHAP` |
-| **[module-ballerinax-huggingface](https://github.com/HasithaErandika/module-ballerinax-huggingface)** | Published Ballerina connector for HuggingFace Inference API — 17+ AI tasks, RAG pipeline, streaming, 189+ pulls | `Ballerina` `HuggingFace API` |
 
 ---
 
