@@ -31,7 +31,6 @@ I build AI-powered applications and open-source tools. I work efficiently using 
 location   : Colombo, Sri Lanka 🇱🇰
 degree     : BSc (Hons) Information Technology - AI Specialization
 institution: SLIIT
-gpa        : 3.67 / 4.00  |  Dean's List - Y1S2, Y2S1
 research   : EEG + mindfulness cognition · BrAINLabs (SLIIT) × University of Colombo
 goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 ```
