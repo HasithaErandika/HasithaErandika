@@ -37,9 +37,6 @@ goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HasithaErandika&style=flat-square&color=blueviolet"/>
-</div>
 
 ## 🛠️ Technical Stack
 
