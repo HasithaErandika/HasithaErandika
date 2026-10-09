@@ -23,7 +23,7 @@
 
 ## whoami
 
-2nd-year undergraduate at **SLIIT** specialising in Artificial Intelligence. Research Assistant at **BrAINLabs Inc.**, contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
+3rd-year undergraduate at **SLIIT** specialising in Artificial Intelligence. Research Assistant at **BrAINLabs Inc.**, contributing to EEG-based mindfulness research in collaboration with the University of Colombo.
 
 I build AI-powered applications and open-source tools. I work efficiently using agentic AI platforms - Cursor, ClaudeCLI, and Antigravity - which means I ship faster and focus my energy on architecture, problem framing, and ML fundamentals rather than boilerplate.
 
@@ -32,7 +32,6 @@ location   : Colombo, Sri Lanka 🇱🇰
 degree     : BSc (Hons) Information Technology - AI Specialization
 institution: SLIIT
 research   : EEG + mindfulness cognition · BrAINLabs (SLIIT) × University of Colombo
-goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 ```
 
 ---
@@ -49,15 +48,6 @@ goal       : AI/ML Internship → MSc Germany → Aerospace Embedded AI
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<!--
-**Robotics & Embedded Systems**
-
-![ROS 2](https://img.shields.io/badge/ROS%202%20Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo%20Harmonic-orange?style=flat-square)
-
--->
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
